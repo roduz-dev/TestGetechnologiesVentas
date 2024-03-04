@@ -1,7 +1,6 @@
 Test Software Developer
-Ejercicios
+
 Crear un proyecto.
-Implementar el siguiente modelo de clases en el proyecto.
 
 Hacer referencia al patrón de diseño  Repository Design Pattern
 
@@ -17,7 +16,7 @@ Todos los atributos de la clase Persona son obligatorios para persistir el objet
 
 Utilizar una base de datos embebida como h2 o la que desees para el ejercicio.
 
-Como plus puedes agregar logger para mostrar en consola la información (elige uno de los métodos).
+Como plus puedes agregar logger para mostrar en consola la información 
 
 Realiza un cliente para la API anteriormente creada en el paso 1 y 2 , tomando en cuenta las tecnologías mencionadas en la sección de herramientas. Puedes utilizar el framework de estilos que prefieras o bien, crear tus propios estilos.
 
